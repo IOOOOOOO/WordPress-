@@ -5,15 +5,15 @@
 这里我们下载和安装插件在后台激活。</p>
 <p>插件下载：https://soft.itbulu.com/wordpress/wechat-fans.zip<br />
 第二、插件设置</p>
-<p><img class="lazy lazy-hidden" layer-src="//www.qiyuwg.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204232.png" src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204232.png" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /><noscript><img layer-src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204232.png" src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204232.png" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /></noscript></p>
+<p><noscript><img src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204232.png" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /></noscript></p>
 <p>这里只要是设置自动回复要对应。</p>
 <p><strong>第三、如何使用</strong></p>
 <p>&nbsp;</p>
-<p><img class="lazy lazy-hidden" layer-src="//www.qiyuwg.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.qiyuwg.com/wp-content/uploads/2018/09/auto-wechat-qr2.jpg" src="https://www.qiyuwg.com/wp-content/uploads/2018/09/auto-wechat-qr2.jpg" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /><noscript><img layer-src="https://www.qiyuwg.com/wp-content/uploads/2018/09/auto-wechat-qr2.jpg" src="https://www.qiyuwg.com/wp-content/uploads/2018/09/auto-wechat-qr2.jpg" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /></noscript></p>
+<p><noscript><img  src="https://www.qiyuwg.com/wp-content/uploads/2018/09/auto-wechat-qr2.jpg" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /></noscript></p>
 <p>&nbsp;</p>
 <p>实例：&lt;!&#8211;wechatfans start&#8211;&gt;               &lt;!&#8211;wechatfans end&#8211;&gt;</p>
 <p>在编辑框我们可以看到插件微信隐藏标签按钮，然后对应添加需要隐藏的内容。</p>
 <div style="border:1px dashed #F60; padding:10px; margin:10px 0; line-height:200%;  background-color:#FFF4FF; overflow:hidden; clear:both;"><!--wechatfans start-->这里是演示内容<!--wechatfans end--></div>
 <p>&nbsp;</p>
-<p><img class="lazy lazy-hidden" layer-src="//www.qiyuwg.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204712.png" src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204712.png" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /><noscript><img layer-src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204712.png" src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204712.png" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /></noscript></p>
+<p><noscript><img src="https://www.qiyuwg.com/wp-content/uploads/2018/09/180919204712.png" alt="《WordPress关注微信公众号获取验证码查看隐藏内容》" /></noscript></p>
 <p>我们在前端可以看到隐藏的内容。</p>
